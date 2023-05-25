@@ -1,0 +1,14 @@
+# PyCharm
+.idea
+ # Django
+*.log
+db.sqlite3
+*/__pycache__/
+*/migrations/
+staticfiles/
+ # VS Code
+.vscode/
+Scripts
+
+Lib
+/Scripts/
