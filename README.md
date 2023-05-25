@@ -16,6 +16,9 @@
    2. 可以的话请使用yarn执行上述操作
    3. 进入controll_back
    4. 执行`pip install -r requirements.txt`
+   5. 执行`python manage.py migrate`
+   6. 执行`python manage.py makemigrations`
+   7. 重复第五步
 3. **启动项目**
    1. 执行`npm run dev`打开前端页面
    2. 执行`python manage.py runserver 8000`即可运行后端
